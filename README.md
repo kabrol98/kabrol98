@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Karan Abrol. I graduation from the University of Illinois in 2020. I worked in Oracle's Databases group for 3 years, and then joined [Deductive AI](https://www.deductive.ai/) in 2023 as a Founding Software Engineer. 
+My name is Karan Abrol. I graduated from the University of Illinois in 2020. I worked in Oracle's Databases group for 3 years, and then joined [Deductive AI](https://www.deductive.ai/) in 2023 as a Founding Software Engineer. 
 
 I'm super interested in the intersection between Databases and Artificial Intelligence, and making developers more productive. Please drop me a note at kabrol@gmail.com if you'd like to chat!
 
