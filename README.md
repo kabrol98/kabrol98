@@ -6,7 +6,7 @@ I'm super interested in the intersection between Databases and Artificial Intell
 
 You can find out more about my work from [my resume](https://tinyurl.com/kabrol-resume)
 
-[![Karan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kabrol98)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Karan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kabrol98)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
 **kabrol98/kabrol98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
